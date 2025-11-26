@@ -22,7 +22,7 @@ This project demonstrates:
 
 ## Repository Structure
 ```
-t-cell-classification/
+t-cell-activation-classification/
 │
 ├── README.md
 ├── t_cell_classification.ipynb
