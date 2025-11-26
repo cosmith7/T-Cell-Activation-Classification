@@ -29,12 +29,12 @@ t-cell-classification/
 ├── size_intensity_feature.csv
 │
 ├── results/
-│ ├── class_distribution.png
-│ ├── logistic_regression_plot.png
+│ ├── cell_size_effect.png
+│ ├── class-distribution.png
+│ ├── decision_tree_graph.png
 │ ├── knn_elbow_plot.png
-│ └── decision_tree.png
+│ └── total_intensity_effect.png
 ```
-
 
 ## Requirements
 To run this project, the following Python libraries are required:
