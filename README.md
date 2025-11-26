@@ -25,7 +25,7 @@ This project demonstrates:
 t-cell-activation-classification/
 │
 ├── README.md
-├── t_cell_classification.ipynb
+├── t_cell_classification-mlproject.ipynb
 ├── size_intensity_feature.csv
 │
 ├── results/
